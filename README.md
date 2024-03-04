@@ -1,0 +1,1 @@
+NFT MARKETPLACE NOTES# minor_frntend
