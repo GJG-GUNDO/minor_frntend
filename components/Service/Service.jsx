@@ -14,7 +14,7 @@ const HeroSection = () => {
           <Image
             src={images.service1}
             alt="Filter and Discover"
-            width={100}
+            width={250}
             height={100}
           />
           <p className={Style.service_box_item_step}>
