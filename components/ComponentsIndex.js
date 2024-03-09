@@ -10,6 +10,10 @@ import Category from "./Category/Category";
 import Filter from "./Filter/Filter";
 import NFTCard from "./NFTCard/NFTCard";
 import Collection from "./Collection/Collection";
+import AudioLive from "./AudioLive/AudioLive";
+import FollowerTab from "./FollowerTab/FollowerTab";
+import LikeProfile from "./LikeProfile/LikeProfile";
+import Slider from "./Slider/Slider";
+import Brand from "./Brand/Brand";
 
-
-export { Collection, NFTCard, Button, Footer, Category, NavBar, HeroSection, Service, Subscribe, BigNFTSlider, Title, Filter};
+export { Brand, Slider, LikeProfile, FollowerTab, AudioLive, Collection, NFTCard, Button, Footer, Category, NavBar, HeroSection, Service, Subscribe, BigNFTSlider, Title, Filter};
